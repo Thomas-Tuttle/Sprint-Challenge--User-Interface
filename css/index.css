@@ -250,6 +250,50 @@ hr {
     border-bottom: 1px dashed black;
 }
 
+.section-a {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.section-b {
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.div-a1 {
+    margin-right: 20px;
+    margin-left: 10px;
+    
+}
+
+.div-a2 {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.div-b1 {
+    border-bottom: 1px dashed black;
+    margin-right: 20px;
+    margin-left: 10px;
+    
+}
+
+.div-b2 {
+    border-bottom: 1px dashed black;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.about-img {
+    margin-bottom: 20px;
+}
+
+.bottom-p {
+    margin-bottom: 40px;
+}
+
 /* Thomas-Tuttle*/
 
 h1, h2, h3, h4, h5 {
