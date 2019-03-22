@@ -98,24 +98,9 @@ header {
     height: 40px;
 }
 
-.box1 {
+.b {
      width: 12.5%;
     height: 100px;
-    background: teal;
-    margin: 20px 2.5%;
-    color: black;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: 1px solid black;
-    border-radius: 12px;
-    box-shadow: 0px 0px 7px 3px rgba(0,0,0,0.75);   
-}
-
-.box2 {
-    width: 12.5%;
-    height: 100px;
-    background: gold;
     margin: 20px 2.5%;
     color: black;
     display: flex;
@@ -124,119 +109,46 @@ header {
     border: 1px solid black;
     border-radius: 12px;
     box-shadow: 0px 0px 7px 3px rgba(0,0,0,0.75);
+}
+
+.box1 {
+    background: teal;
+    }
+
+.box2 {
+    background: gold;
 }
 
 .box3 {
-    width: 12.5%;
-    height: 100px;
     background: cadetblue;
-    margin: 20px 2.5%;
-    color: black;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: 1px solid black;
-    border-radius: 12px;
-    box-shadow: 0px 0px 7px 3px rgba(0,0,0,0.75);
 }
 
 .box4 {
-
-    width: 12.5%;
-    height: 100px;
     background: coral;
-    margin: 20px 2.5%;
-    color: black;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: 1px solid black;
-    border-radius: 12px;
-    box-shadow: 0px 0px 7px 3px rgba(0,0,0,0.75);
 }
 
 .box5 {
-    width: 12.5%;
-    height: 100px;
     background: crimson;
-    margin: 20px 2.5%;
-    color: black;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: 1px solid black;
-    border-radius: 12px;
-    box-shadow: 0px 0px 7px 3px rgba(0,0,0,0.75);
 }
 
 .box6 {
-    width: 12.5%;
-    height: 100px;
     background: forestgreen;
-    margin: 20px 2.5%;
-    color: black;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: 1px solid black;
-    border-radius: 12px;
-    box-shadow: 0px 0px 7px 3px rgba(0,0,0,0.75);
 }
 
 .box7 {
-    width: 12.5%;
-    height: 100px;
     background: darkorchid;
-    margin: 20px 2.5%;
-    color: black;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: 1px solid black;
-    border-radius: 12px;
-    box-shadow: 0px 0px 7px 3px rgba(0,0,0,0.75);
 }
 
 .box8 {
-    width: 12.5%;
-    height: 100px;
     background: hotpink;
-    margin: 20px 2.5%;
-    color: black;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: 1px solid black;
-    border-radius: 12px;
-    box-shadow: 0px 0px 7px 3px rgba(0,0,0,0.75);
 }
 
 .box9 {
-    width: 12.5%;
-    height: 100px;
     background: indigo;
-    margin: 20px 2.5%;
-    color: black;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: 1px solid black;
-    border-radius: 12px;
-    box-shadow: 0px 0px 7px 3px rgba(0,0,0,0.75);
 }
 
 .box10 {
-    width: 12.5%;
-    height: 100px;
     background: dodgerblue;
-    margin: 20px 2.5%;
-    color: black;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    border: 1px solid black;
-    border-radius: 12px;
-    box-shadow: 0px 0px 7px 3px rgba(0,0,0,0.75);
 }
 
 
