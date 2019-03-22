@@ -374,6 +374,7 @@ hr {
     height: 100px;
     border-radius: 50%;
     cursor: pointer;
+    margin-left: 30px;
 
 }
 
@@ -399,6 +400,18 @@ width: 100%;
 
 h4 {
     margin-top: 50px;
+}
+
+.address{
+    margin-top: 50px;
+    height: 100px;
+    width: 100px;
+}
+
+.phone-icon {
+    margin-top: 50px;
+    height: 100px;
+    width: 100px;
 }
 
 /* Thomas-Tuttle*/
